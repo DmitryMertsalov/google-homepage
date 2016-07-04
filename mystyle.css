@@ -1,0 +1,219 @@
+.apps {
+  height: 17px;
+  width: 17px;
+  display: inline;
+  float: right;
+  position: relative;
+  margin-top: 15px;
+  font-family: Arial;
+  color: #282323;
+  margin: 25px 12px 15px 15px
+
+
+}
+
+.toprightlink2 {
+  height: 5px;
+  width: 40px;
+  display: inline;
+  float: right;
+  position: relative;
+  font-family: Arial;
+  color: #282323;
+  text-decoration: none;
+  font-size: 13px;
+  margin: 25px 5px 15px 0px;
+
+
+}
+
+.toprightlink1 {
+  height: 5px;
+  width: 40px;
+  display: inline;
+  float: right;
+  position: relative;
+  color: #282323;
+  text-decoration: none;
+  font-size: 13px;
+  margin: 25px 8px 15px 10px;
+
+}
+
+a {
+  color: #272727;
+  text-decoration: none;
+  font-family: arial;
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+.signin {
+  float: right;
+  position: relative;
+  display: inline;
+  width: 65px;
+  height: 20px;
+  background: #4386f8;
+  padding: 5px;
+  padding-top: 8px;
+  margin-top: 15px;
+  border: 0px;
+  border-radius: 2px;
+  font-size: 13px;
+  font-family: Arial;
+  color: white;
+  font-weight: bold;
+  margin: 17px 15px 15px 8px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.signin:hover {
+  text-decoration: none;
+}
+
+#logo {
+  position: absolute;
+  top: 200px;
+  left: 585px;
+}
+
+#search {
+  position: absolute;
+  width: 580px;
+  height: 37px;
+  top: 320px;
+  left: 435px;
+  border: 1px solid #4d90fe;
+  outline-width: 0;
+  font-family: Arial;
+  line-height: 14px;
+  font-size: 16px;
+
+}
+
+#mic {
+  position: absolute;
+  top: 328px;
+  left: 985px;
+}
+
+.searchbutton {
+  position: absolute;
+  width: 125px;
+  height: 35px;
+  top: 393px;
+  left: 582px;
+  border: 0px solid red;
+  background: #F2F2F2;
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Arial;
+  color: #7c7b7b;
+  border-radius: 2px;
+}
+
+.Lucky {
+  position: absolute;
+  width: 135px;
+  height: 35px;
+  top: 393px;
+  left: 715px;
+  border: none;
+  background: #F2F2F2;
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Arial;
+  color: #7c7b7b;
+  line-height: 35px;
+  border-radius: 2px;
+  }
+
+  .searchbutton:hover {
+    border: 1px solid #c6c6c6;
+    color: #282323;
+
+  }
+
+  .Lucky:hover {
+    border: 1px solid #c6c6c6;
+    color: #282323;
+    text-decoration: none;
+    height: 33px;
+    width: 133px;
+    line-height: 33px;
+  }
+
+  .searchbutton:focus {
+    border: 1px solid #4d90fe;
+    outline-width: 0;
+  }
+
+  .Lucky:focus {
+    border: 1px solid #4d90fe;
+    outline-width: 0;
+  }
+
+  .footer {
+    width: 1450px ;
+    height: 40px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    position: absolute;
+    top: 790px;
+    left: -10px;
+  }
+
+#adlink {
+    position: absolute;
+    top: 803px;
+    left: 30px;
+    font-size: 13px;
+    color: #666666;
+  }
+
+#businesslink {
+    position: absolute;
+    top: 803px;
+    left: 125px;
+    font-size: 13px;
+    color: #666666;
+  }
+
+#aboutlink {
+    position: absolute;
+    top: 803px;
+    left: 210px;
+    font-size: 13px;
+    color: #666666;
+}
+
+#privicylink {
+    position: absolute;
+    top: 803px;
+    right: 173px;
+    font-size: 13px;
+    color: #666666;
+}
+
+#termslink {
+    position: absolute;
+    top: 803px;
+    right: 107px;
+    font-size: 13px;
+    color: #666666;
+}
+
+#settingslink {
+    position: absolute;
+    top: 803px;
+    right: 30px;
+    font-size: 13px;
+    color: #666666;
+}
